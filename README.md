@@ -2,11 +2,7 @@
 <h3 align="center">A passionate software developer form Pakistan</h3>
 <p >I love building logic, making new algorithms and optimizing them. I do some research work on algorithms in my free time. I like to explore and understand the concepts behind how something is working, which allows me to work with, and switch between multiple technologies, with ease.</p>
 
-
 - 📫 How to reach me **malik.sabih.18@gmail.com**
-# 💫 About Me:
-Hi there! I am Sabih Ul Hassan. I am a software developer. I love building logic, making new algorithms and optimizing them. I do some research work on algorithms in my free time. I like to explore and understand the concepts behind how something is working, which allows me to work with, and switch between multiple technologies, with ease.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sabih-Ul-Hassan) 
